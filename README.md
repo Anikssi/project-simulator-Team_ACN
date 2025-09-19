@@ -1,1 +1,3 @@
-"# Project Simulator" implementation
+# Project Simulator
+Corrected README.md after hotfix
+
