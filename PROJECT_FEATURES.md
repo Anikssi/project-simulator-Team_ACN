@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-1: Implement Unified indoor & outdoor campus map" 
+"The **Unified indoor & outdoor campus** feature will let users navigate seamlessly across both outdoor areas (roads, playgrounds, building entrances) and indoor areas (classrooms, labs, offices) in a single system. This removes the need to switch apps or maps and ensures smooth, end-to-end navigation inside AIUB's campus."
+"**Status: Implemented**" 
+"" 
