@@ -3,3 +3,8 @@
 "The **Unified indoor & outdoor campus** feature will let users navigate seamlessly across both outdoor areas (roads, playgrounds, building entrances) and indoor areas (classrooms, labs, offices) in a single system. This removes the need to switch apps or maps and ensures smooth, end-to-end navigation inside AIUB's campus."
 "**Status: Implemented**" 
 "" 
+"## T-2: Implement Search Functionality" 
+"## T-2: Implement Interactive 3D Visual Layers" 
+"This task involves creating interactive 3D layers for the application, allowing users to rotate, zoom, and interact with 3D objects for better visualization." 
+"**Status: Implemented**" 
+"" 
